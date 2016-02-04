@@ -37,12 +37,12 @@
     "parseAppId": {
       "type": "string",
       "minLength": 1,
-      "defaultValue": "myAppId"
+      "defaultValue": "cw3H6mMpjhb2ZWGuiuHDBBSXfXwuLKIzSzJA3VQK"
     },
     "parseMasterKey": {
       "type": "string",
       "minLength": 1,
-      "defaultValue": "myMasterKey"
+      "defaultValue": "qXALM1ACnQdPGL3l9MZ0BmgI25yVeaKB5Wsm0yje"
     },
     "repoURL": {
       "type": "string",
